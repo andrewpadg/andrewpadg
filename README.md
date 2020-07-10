@@ -12,4 +12,4 @@ I am a senior computer science student at [Clemson University](http://www.clemso
 
 ### 📫 How to reach me...
 - [LinkedIn](https://www.linkedin.com/in/andrew-padgett/)
-- [Email](mailto:andrewcpadg@gmail.com
+- [Email](mailto:andrewcpadg@gmail.com)
