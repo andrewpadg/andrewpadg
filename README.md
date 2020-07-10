@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Andrew Padgett
 
+I am a computer science student at [Clemson University](http://www.clemson.edu/cecas/departments/computing/)
+
 <!--
 **andrewpadg/andrewpadg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
