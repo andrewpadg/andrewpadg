@@ -12,6 +12,3 @@ I am a senior computer science student at [Clemson University](http://www.clemso
 ### 📫 How to reach me...
 - [LinkedIn](https://www.linkedin.com/in/andrew-padgett/)
 - [Email](mailto:andrewcpadg@gmail.com)
-
-
-[![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrewpadg)](https://github.com/anuraghazra/github-readme-stats)
