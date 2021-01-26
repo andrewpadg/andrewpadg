@@ -6,8 +6,9 @@ I am a senior computer science student at [Clemson University](http://www.clemso
 - Fact Checker Bot - Collaboration with SYNNEX to develop a chatbot with media fact checking capabilities. Admin users upload documents for Facty to parse. Users can then talk with Facty to get information from those documents. I am team lead for the project. Built with Flask, Azure LUIS, and Azure Knowledge Mining services.
 
 ## 🌱 I’m currently learning...
-- [Azure Knowledge Mining](https://azure.microsoft.com/en-au/solutions/knowledge-mining/)
-- Machine Learning Fundamentals
+- Data Science
+- Advanced Algorithsm
+- Cloud Computing
 
 ### 📫 How to reach me...
 - [LinkedIn](https://www.linkedin.com/in/andrew-padgett/)
